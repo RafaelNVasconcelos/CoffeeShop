@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="escolha_seu_n_caf_favorito">Escolha seu \n Café Favorito</string>
+    <string name="escolha_seu_n_caf_favoritoo">Escolha seu \n Café Favorito</string>
+    <string name="os_melhores_gr_os_a_melhor_torra_no_melhor_sabor">Os melhores grãos, a melhor torra\no melhor sabor</string>
+    <string name="inicio">Inicio</string>
+    <string name="escolha_seu_ncaf_favorito">Escolha seu\nCafé Favorito</string>
+    <string name="os_melhores_g_os_a_melhor_torra_n_o_melhor_sabor">Os Melhores Gãos, A melhor torra,\n O melhor Sabor</string>
+    <string name="in_cio">Início</string>
+    <string name="buscar">Buscar</string>
+    <string name="categoria">Categoria</string>
+    <string name="mais_pedidos">Mais Pedidos</string>
+    <string name="todos">Todos</string>
+</resources>
