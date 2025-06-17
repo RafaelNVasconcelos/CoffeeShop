@@ -11,4 +11,6 @@
     <string name="categoria">Categoria</string>
     <string name="mais_pedidos">Mais Pedidos</string>
     <string name="todos">Todos</string>
+    <string name="carinho">Carinho</string>
+    <string name="qty">Qty.</string>
 </resources>
